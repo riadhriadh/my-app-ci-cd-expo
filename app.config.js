@@ -12,7 +12,6 @@ export default {
       "image": "./assets/splash.png",
       backgroundColor: '#333',
     },
-  
     extra: {
 
       APP_ID: "com.test.riadh",
