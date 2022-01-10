@@ -1,6 +1,6 @@
 
 export default {
-    name: process.env.APP_NAME,
+    name:'my-app-ci-cd-expo',
     slug: 'my-app-ci-cd-expo',
     version: '0.0.1',
     owner: 'riadh',
