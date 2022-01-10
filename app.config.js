@@ -6,7 +6,7 @@ export default {
     owner: 'riadh',
     orientation: 'portrait',
     icon: "./assets/icon.png",
-    scheme: 'allocabdriver',
+    scheme: 'my-app-ci-cd-expo',
     userInterfaceStyle: 'automatic',
     splash: {
       "image": "./assets/splash.png",
